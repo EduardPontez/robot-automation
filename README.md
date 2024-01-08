@@ -20,31 +20,30 @@ A lista **"A fazer"**, fica em posse de tarefas a serem cumpridas no projeto.
 
 O arquivo *"resource_login"* contém todas as variáveis que usamos para configurar o modo que o Robot irá executar as rotinas, sendo elas:
 
-* ${SERVER} - Variável que define o servidor a ser acessado. Por padrão o servidor utilizado é 172.16.14.249, sendo ele o mais recomendado para se executar as rotinas por conter uma grande quantidade de registros cadastrados, desta forma, menos suscetível a erros.
+* **${SERVER}** - Variável que define o servidor a ser acessado. Por padrão o servidor utilizado é 172.16.14.249, sendo ele o mais recomendado para se executar as rotinas por conter uma grande quantidade de registros cadastrados, desta forma, menos suscetível a erros.
 
 
-* ${BROWSER} - Variável que define o navegador a ser utilizado. Por padrão o navegador utilizado é o Mozilla Firefox, sendo ele o mais recomendado para se executar as rotinas por apresentar maior compatíbilidade com as telas do Suricato.
+* **${BROWSER}** - Variável que define o navegador a ser utilizado. Por padrão o navegador utilizado é o Mozilla Firefox, sendo ele o mais recomendado para se executar as rotinas por apresentar maior compatíbilidade com as telas do Suricato.
 
 
-* ${USERNAME} - Variável que define o usuário que irá acessar o Suricato. Por padrão o usuário utilizado é o ADMIN, sendo ele o mais recomendado para se executar as rotinas por conter o mais alto nível de autorização.
+* **${USERNAME}** - Variável que define o usuário que irá acessar o Suricato. Por padrão o usuário utilizado é o ADMIN, sendo ele o mais recomendado para se executar as rotinas por conter o mais alto nível de autorização.
 
 
-* ${PASSWORD} - Variável que contem a senha para o acesso do usuário escolhido.
+* **${PASSWORD}** - Variável que contem a senha para o acesso do usuário escolhido.
+
+* **${LANGUAGE}** - Variável que define qual o idioma do Suricato. Idiomas disponíveis: PT-BR (Padrão), EN-US, ES-ES.
 
 
-* ${LANGUAGE} - Variável que define qual o idioma do Suricato. Idiomas disponíveis: PT-BR (Padrão), EN-US, ES-ES.
+* **${MODE}** - Variável que define o modo em que as rotinas serão executadas. Modos disponíveis: TST (Modo utilizado para Testes), DOC (Modo utilizado para tirar prints das telas do Suricato), VID (Modo que grava toda a execução da rotina)
 
 
-* ${MODE} - Variável que define o modo em que as rotinas serão executadas. Modos disponíveis: TST (Modo utilizado para Testes), DOC (Modo utilizado para tirar prints das telas do Suricato), VID (Modo que grava toda a execução da rotina)
+* **${REQ}** - Variável que define se o modo REQ será executado. Por padrão seu valor é FALSE.
 
 
-* ${REQ} - Variável que define se o modo REQ será executado. Por padrão seu valor é FALSE.
+* **${TYPE}** - Variável que define a extensão do arquivo "suricato", utilizado para definir a url de acesso.
 
 
-* ${TYPE} - Variável que define a extensão do arquivo "suricato", utilizado para definir a url de acesso.
-
-
-* ${URL} - Variável que define a URL de acesso ao Suricato.
+* **${URL}** - Variável que define a URL de acesso ao Suricato.
 
 
 Todas as variáveis podem ser alteradas através da linha de comando antes de se executar as rotinas, utilizando o comando **"-v"** e em seguida a variável a ser alterada. 
