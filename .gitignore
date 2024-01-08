@@ -1,0 +1,25 @@
+# Ignore
+results/*.xml
+results/*.html
+results/*.html
+results/*.png
+results/*.jpeg
+results/*.log
+superutil/recorder/*.mp4
+superutil/recorder/assets/ssml/chosen.txt
+*.html
+*.xml
+*.log
+*.png
+__pycache__
+_tmp
+.vscode
+.idea
+**.env
+payload.json
+
+# Allow
+!results/media/**/*.png
+!superutil/recorder/assets/**/*.png
+!superutil/recorder/assets/ssml/**/*.xml
+!superutil/opencv/**/*.png

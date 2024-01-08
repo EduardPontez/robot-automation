@@ -1,0 +1,37 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"89523202-fee2-410b-8a71-355e59bdaa21","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)">Cadastro
+Organograma
+Cargos
+Horários
+Horário
+Jornada de Trabalho
+Faixas Horárias para Controle de Acesso
+Faixa Horária Refeitório
+Grupo
+<sub alias="Côdíns">Codins</sub>
+Listas
+Gerais
+Pré-Cadastro
+Provisórios
+Servidor <sub alias="C F T V">CFTV</sub>
+Câmeras Por <sub alias="Côdín">Codin</sub>
+Cameras Alarmes
+Empregado/Terceiro/Parceiro
+Faixas
+Benefícios
+<sub alias="Côdín">Codin</sub> de Benefício
+Visitante
+Materiais
+Solicitação
+Cadastro e Histórico Veículos
+Responsáveis
+Histórico de Responsáveis
+Comandos
+Multas
+Câmera <sub alias="C F T V">CFTV</sub>
+Passageiros
+Grupo de Visitantes
+Visitantes
+Licenciamento
+Parcelas</voice></speak>

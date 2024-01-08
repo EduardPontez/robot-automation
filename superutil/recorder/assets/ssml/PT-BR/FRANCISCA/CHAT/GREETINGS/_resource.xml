@@ -1,0 +1,13 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"7f555f91-be6f-44e6-afe9-cbf590fc7f24","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)">Olá! sou a <sub alias="Suri bót">Suribot</sub>, a assistente virtual da Plataforma de <sub alias="ê a dê">EAD</sub>, da Telemática Sistemas Inteligentes! Vamos para mais um vídeo!
+Olá! Seja bem-vindo a mais um vídeo!
+Olá! Seja muito bem-vindo a mais este vídeo!
+Olá! Seja bem-vindo novamente a mais um vídeo!
+Olá! Como vai? Seja bem-vindo novamente a mais este vídeo da plataforma de treinamento da Telemática! 
+Olá! Fico grata por mais uma visita sua, em nossos vídeos de treinamento!
+Bem-vindo novamente a mais um vídeo de treinamento da nossa plataforma de <sub alias="ê a dê">EAD</sub>!
+Olá! Me chamo <sub alias="Suri bót">Suribot</sub>, e vou te acompanhar em mais este vídeo!
+Olá! Me chamo <sub alias="Suri bót">Suribot</sub>, e vou te acompanhar em mais esta jornada de aprendizagem!
+Olá! Vamos iniciar mais um vídeo de treinamento da Telemática Sistemas Inteligentes!
+Olá! Eu Sou a <sub alias="Suri bót">Suribot</sub> , assistente de aprendizagem da Telemática, e vamos juntos acompanhar a mais este vídeo.</voice></speak>

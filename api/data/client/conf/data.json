@@ -1,0 +1,11 @@
+{
+  "DATA": {
+    "HOSTNAME": "",
+    "USERNAME": "",
+    "PASSWORD": "",
+    "DATABASE": "SELENIUM",
+    "ENDPOINT_PERSON": "",
+    "ENDPOINT_COMPANY": "",
+    "TYPE": "MSSQL"
+  }
+}

@@ -1,0 +1,276 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"7f555f91-be6f-44e6-afe9-cbf590fc7f24","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)">Acesso
+Acesso - Grid
+Acessórios
+Afastamento
+AFD
+Agendamento
+Agendamento de Grupo
+Agendamento Visitante
+Agendamentos de Veículo - Frota
+Ajuda
+Alarme
+Alarme - Grid
+Alterar Senha
+Aprovação de Agendamentos - Frota
+Aprovar Solicitação de Visita
+Área de Risco
+Área Restrita
+Ativação de Usuário
+Ativar
+Ativar Emergência
+Atribuição
+Atualizar Grupo de REP Coletivo
+Autorização
+Autorização Acesso
+Autorização de Devedores
+Autorizar Acesso
+Baixa de Autorização
+Baixa de Crachá
+Baixa Provisório
+Benefício
+Bloqueio
+Bloqueio e Desbloqueio
+Cadastro
+Ambiente
+Cadastro de Andares
+Cadastro de Benefício
+Cadastro de Câmeras por Grupo
+Cadastro de Candidato
+Cadastro de Chave
+Cadastro de <sub alias="côdín">Codin</sub>
+Cadastro de Elevadores
+Cadastro de Empresa
+Cadastro de Empresa Terceira
+Cadastro de <sub alias="E P I">EPI</sub>
+Cadastro de <sub alias="E P I">EPI</sub> por Cargo
+Cadastro de <sub alias="E P I">EPI</sub> por Centro de Custo
+Cadastro de <sub alias="E P I">EPI</sub> por Centro de Custo e Cargo
+Cadastro de <sub alias="E P I">EPI</sub> por Local
+Cadastro de Escala
+Cadastro de Estacionamentos
+Cadastro de Grupo de REP
+Cadastro de Grupos de Abrangência
+Cadastro de Guarda-Volumes
+Cadastro de Locais de Prestação de Serviços
+Cadastro de Pessoa Não Grata
+Cadastro de Senha de Acesso Temporária
+Cadastro de Terceiro
+Cadastro de Termo de Compromisso para Entrega de <sub alias="E P I">EPI</sub>
+Cadastro de Tipo de Contrato
+Cadastro de Tipo de Refeição
+Cadastro de Tipos de Alarmes de Trânsito
+Cadastro de Tipos de <sub alias="E P I">EPI</sub>
+Cadastro de Torres
+Cadastro de Visitante
+Cadastros de Grupos
+Câmera
+Candidato
+Cargo
+Centro de Custo
+<sub alias="Cê F tevê">CFTV</sub>
+Chave
+<sub alias="Clokin Clókáuti">Clockin Clockout</sub>
+Cobertura
+<sub alias="côdín">Codin</sub>
+Colaborador
+Coletiva
+Coletivo
+Comando
+Comandos para Equipamentos
+Condutores
+Configuração de LDAP
+Configuração Elevadores
+Configurações
+Configurações Crachá
+Configurações de <sub alias="E P I">EPI</sub>
+Configurações Gerais Do Sistema
+Configurações Integração TOTVS
+Consulta
+Consulta de Controle Por Local de Acesso
+Consulta Impressa
+Consultar Acesso
+Consultar Ticket WSG
+Consultas
+Consumo
+Conteúdo da Ajuda
+Contrato
+Contratos
+<sub alias="Contrôule">Controle</sub>
+Corretores
+Crachá
+Crachá Veículo
+Crédito de Acesso
+Definições
+Desbloqueio
+Devolução
+Diretiva de Segurança
+Dispositivo
+Dispositivos Grid
+E-mail
+Emergência
+Empregado
+Empregado/Terceiro/Parceiro
+Empresa
+Empresa Terceira
+Entrada
+Entrada de Agências
+Entrada de Grupo
+Entrada de Visitante
+Entrada de Visitantes
+Entrada de Visitantes com Captura de Fotos
+Entrega
+Envio de Mensagem
+Envio individual de comandos Player
+<sub alias="E P I">EPI</sub> - Equipamento de Proteção Individual
+Tipo de Biometria por Grupo de Usuário
+Escala
+Estacionamento
+Estrutura
+Exportação
+Faixa de Acesso de Refeitório
+Feriado
+Filial
+Filtro de Abrangência
+Hora Extra
+Formulário de Cadastro de Tipo de Usuário
+Campos Customizáveis
+Foto
+Frota
+Função
+<sub alias="Guêituei">Gateway</sub>
+Geração de Lista
+Gerador Relatorios
+Configurações Gerais
+Gráfico
+Gravação Por faixa
+Grupo de Acesso Coletivo
+Grupo de Acessos
+Grupo de Cameras
+Grupo de <sub alias="côdín">Codin</sub>
+Grupo de Email - <sub alias="E P I">EPI</sub>
+Grupo de Relatório
+Grupo de REP
+Grupo de Usuário
+Grupo de Visitante
+Grupos de Cameras
+Guarda-Volumes
+Histórico
+Histórico de <sub alias="côdín">Codin</sub> por Filial
+Histórico de <sub alias="E P I">EPI</sub> por Colaborador
+Histórico de <sub alias="E P I">EPI</sub> por Colaboradores
+Histórico de <sub alias="E P I">EPI</sub> por Visitante
+Histórico de Perfil
+Históricos
+Horário de Escala
+Identificação
+Idioma
+Importação
+Importar
+Individual
+Infrações
+Integração <sub alias="TÓTUS">TOTVS</sub>
+Layout de Arquivo
+Layout de Relatório
+Ler Smart Card
+L G P D!
+L G P D! - Configurações de Dados Sensíveis
+Liberação Faixa Horária
+Local
+Local Veículo
+Log de Aplicação
+Log Eventos <sub alias="Suri Player">Suriplayer</sub>
+LOG SECUROS
+Lote
+Lote de Comando
+Lote de Crachá
+Marcação de Acesso Manual
+Marcas
+Material
+Material por Pessoa
+Matrícula Automática
+Matriz de Acesso
+Mensagens Pré definidas
+Mestre e Acesso Geral
+Meu Acesso
+Modelos
+Monitoramento
+Monitoramento de Acesso Cameras
+Monitoramento de Câmeras de Trânsito
+Monitoramento de Dispositivos
+Monitoramento de Status de Cameras
+Monitoramento Gráfico de Equipamentos
+Monitoramento LOG Gerenciador
+Motivo
+Motivo de Bloqueio
+Motivo de Uso
+Movimentação
+Movimentação de Chave
+Movimentação de Guarda-Volumes
+Multas
+Notificações
+Ocorrência
+Ocorrências
+Online
+Organograma
+Parceiro
+Perfil de Acesso
+Pessoa Não Grata
+Planta
+Portaria e Recepção
+Pré-Cadastro de Crachá
+Pré-Cadastro de Crachás Por Faixa
+Procedimento de Alarme
+Processo
+Programação
+Prontuário de Veículos
+Provisório
+Reação de Acesso
+Reação de Alarme
+Reclamações
+Refeitorio
+Registro
+Relatório
+Relatório de Cadastro de Chave
+Relatório Guarda Volumes
+Relatório de Movimentação de Chave
+Relatório de Movimentação de Guarda-Volumes
+Relatórios
+Reprocessamento de Marcação
+Reprocessamento de Marcações Orfãs REP
+Saída
+Saída de Visitante
+Sair
+Seguros
+Senha
+Senha de Acesso Temporária
+Sinal de Alarme
+Sinistros
+Situação Trabalhista
+Situação Veículo
+Situações
+Sobre
+Solicitação de Saída
+Solicitar Aprovação de Visita
+Terceiro
+Tipo de Acesso
+Tipo de Terceiro
+Tipo de Visita
+Tipos de Ocorrência
+Troca de Crachá
+Troca de Escala
+Troca de Grupo de Acesso
+Troca de Horário
+Troca de Ponte
+Upload de Firmware
+Usuário
+Usuário Aprovador de Solicitação de Visita
+Usuário Por Portaria
+Usuários
+Utilização
+Utilização Veículos
+Veículo
+Veículo de Colaborador - Cadastro
+Veículos
+Visitante</voice></speak>

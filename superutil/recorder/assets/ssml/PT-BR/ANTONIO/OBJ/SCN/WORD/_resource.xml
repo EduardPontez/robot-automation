@@ -1,0 +1,577 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"89523202-fee2-410b-8a71-355e59bdaa21","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)"><sub alias="Clokin Clókáuti">Clockin Clockout</sub>
+<sub alias="Clokin Clókáuti">Clockin Clockout</sub> - Exportação C S V
+<sub alias="côdín">Codin</sub>
+<sub alias="Côdín">Codin</sub> de Benefícios (Atualização)
+<sub alias="côdín">Codin</sub> de Benefícios (Inclusão)
+<sub alias="côdíns">Codins</sub>
+<sub alias="Contrôule">Controle</sub> de Colaboradores Desligados
+<sub alias="Guêituei">Gateway</sub> (Inclusão)
+Acesso de Veículos de Colaboradores
+Acessórios (Atualização)
+Acessórios (Inclusão)
+AFD
+Agendamento de Autorização de Entrada (Inclusão)
+Agendamento de Candidato (Atualização)
+Agendamento de Candidato (Inclusão)
+Agendamento de Grupo de Visitantes (Inclusão)
+Agendamento de Visitantes
+Agendamento de Visitas - Visitante (Inclusão)
+Agendamento do Uso da Frota - Passageiros
+Agendamento do Uso da Frota (Atualização)
+Agendamento do Uso da Frota (Inclusão)
+Agendamento do Uso da Frota Passageiros
+Agendamentos
+Alarmes Não Tratados
+Alteração de Senha
+Aprovação de Agendamentos - Frota
+Aprovações de Agendamentos de Visitantes - Filtro
+Aprovador de Solicitação de Visita
+Aprovar Solicitação de Visita
+Área de Risco - <sub alias="côdín">Codin</sub>
+Área de Risco - Cadastro
+Área de Risco - Colaborador
+Área de Risco - Consulta
+Área de Risco - Painel de Controle
+Áreas Restritas de Colaboradores (Inclusão)
+Ativação de Usuário
+Ativar Emergência
+Ativar Relatório
+Atribuição de Benefícios
+Atualizar Grupo de REP Coletivo
+Autorização de Acesso Candidato (Inclusão)
+Autorização de Acesso de Candidato
+Autorização de Entrada (Inclusão)
+Baixa Coletiva de Históricos
+Benefícios (Atualização)
+Benefícios (Inclusão)
+Bloqueio de Colaborador (Inclusão)
+Bloqueio de Crachá (Inclusão)
+Bloqueio e Desbloqueio de Colaborador (Inclusão)
+Cadastro de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody>
+Cadastro de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Cargo
+Cadastro de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Centro de Custo
+Cadastro de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Centro de Custo e Cargo
+Cadastro de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Local
+Cadastro de <sub alias="côdíns">Codins</sub> (Inclusão)
+Cadastro de Ambiente
+Cadastro de Andares
+Cadastro de Aprovador de Solicitação de Visita
+Cadastro de Cameras por Grupo
+Cadastro de Cargos (Atualização)
+Cadastro de Cargos (Inclusão)
+Cadastro de Chave
+Cadastro de Elevadores
+Cadastro de Empregado
+Cadastro de Empregado - Ficha Complementar
+Cadastro de Empregado - Perfil de Acesso
+Cadastro de Empresas Terceiras (Atualização)
+Cadastro de Escala (Atualização)
+Cadastro de Escala (Inclusão)
+Cadastro de Estacionamento
+Cadastro de Funções (Inclusão)
+Cadastro de Grupo de REP
+Cadastro de Grupo de Usuários (Atualização)
+Cadastro de Grupo de Usuários (Inclusão)
+Cadastro de Grupo de Visitantes (Atualização)
+Cadastro de Grupo de Visitantes (Inclusão)
+Cadastro de Grupos de Abrangência
+Cadastro de Grupos de Feriados (Inclusão)
+Cadastro de Guarda-Volumes
+Cadastro de Listas (Atualização)
+Cadastro de Listas (Inclusão)
+Cadastro de Local de Prestação de Serviços
+Cadastro de Lotes de Comandos (Atualização)
+Cadastro de Lotes de Comandos (Inclusão)
+Cadastro de Materiais Por Pessoa
+Cadastro de Motivos de Bloqueios (Atualização)
+Cadastro de Motivos de Bloqueios (Inclusão)
+Cadastro de Movimentações
+Cadastro de Ocorrências (Inclusão)
+Cadastro de Parceiro
+Cadastro de Parceiro - Ficha Complementar
+Cadastro de Parceiro - Perfil de Acesso
+Cadastro de Pessoas Não Gratas (Atualização)
+Cadastro de Pessoas não Gratas (Inclusão)
+Cadastro de Responsáveis por Veículo
+Cadastro de Situações (Inclusão)
+Cadastro de Terceiro
+Cadastro de Terceiro - Ficha Complementar
+Cadastro de Terceiro - Perfil de Acesso
+Cadastro de Termo de Compromisso para Entrega de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody>
+Cadastro de Tipo de Contrato
+Cadastro de Tipo de Refeição
+Cadastro de Tipos de Alarmes de Trânsito
+Cadastro de Torres
+Cadastro de Usuários (Atualização)
+Cadastro de Veículos - Consulta
+Cadastro de Veículos - Inclusão
+Cadastro de Visitantes
+Cadastro de Visitantes - Pesquisa
+Cadastro de Visitantes (Atualização)
+Cadastro de Visitantes (Inclusão)
+Cadastro Notificações Alarme REP
+Cadastro Veículos - Atualização
+Cadastro Veículos - Consulta
+Cadastro Veículos - Inclusão
+Cadastro Veículos - Pesquisa
+Cadastros de Grupos
+Candidato (Atualização)
+Candidato (Inclusão)
+Cargo Colaborador
+Cargos
+Cargos (Atualização)
+Centro de Custo (Inclusão)
+Cobertura (Atualização)
+Cobertura de Seguros (Atualização)
+Cobertura de Seguros (Inclusão)
+Colaboradores por Cargo
+Colaboradores por Escala
+Colaboradores por Local
+Comandos de Emergências
+Comandos do Acesso On-Line
+Comandos para Equipamentos
+Condutores de Veículos da Frota (Atualização)
+Condutores de Veículos da Frota (Inclusão)
+Configuração de Senha
+Configuração do E-mail (Atualização)
+Configurações - Entrada de Visitantes
+Configurações Crachá
+Configurações de <sub alias="E P I">EPI</sub>
+Configurações Gerais do Sistema
+Configurações Integração <sub alias="TÓTUS">TOTVS</sub>
+Consulta Autorizar Acesso de Colaboradores
+Consulta Benefícios
+Consulta Benefícios por Colaboradores
+Consulta Cadastro Tipos Equipamento de Proteção Individual
+Consulta Cobertura de Seguros - Modo Busca
+Consulta Condutores de Veículos de Frota
+Consulta Corretor
+Consulta de <sub alias="côdíns">Codins</sub>
+Consulta de Acesso (Filtro)
+Consulta de Acesso Colaboradores
+Consulta de Acesso Colaboradores Centro de Custo
+Consulta de Acesso Colaboradores Centro de Custo Veículo
+Consulta de Acesso de Colaboradores
+Consulta de Acesso de Grupo de Visitante
+Consulta de Acesso de Grupo de Visitante (Filtro)
+Consulta de Acesso de Visitantes (Filtro)
+Consulta de Acesso de Visitantes Consulta Pessoa Não Grata
+Consulta de Acessórios
+Consulta de Agendamento da Autorização de Entrada do Colaborador
+Consulta de Agendamento de Candidato
+Consulta de Agendamento de Grupo de Visitantes
+Consulta de Agendamento de Visitantes
+Consulta de Ambiente
+Consulta de Autorização de Entrada
+Consulta de Autorizações de Saída
+Consulta de Baixa Autorização Entrada
+Consulta de Benefícios Consumidos
+Consulta de Bloqueio de Colaborador
+Consulta de Cadastro de Andares
+Consulta de Cadastro de Candidato
+Consulta de Cadastro de Elevadores
+Consulta de Cadastro de Torres
+Consulta de Campo Não Customizáveis
+Consulta de Campos Não Customizáveis
+Consulta de Candidato Autorizado
+Consulta de Cargos
+Consulta de Centro de Custo
+Consulta de Colaboradores Admitidos
+Consulta de Colaboradores por Filial
+Consulta de Colaboradores por Grupo de REP
+Consulta de Colaboradores Por linha
+Consulta de Colaboradores por Veiculos
+Consulta de Colaboradores/Terceiros/Parceiros
+Consulta de Contagem de Acessos Diários
+Consulta de Contratos
+Consulta de Crachá Bloqueado
+Consulta de Crachá Provisório
+Consulta de Crachá Titular
+Consulta de Crachás Mestre
+Consulta de Créditos de Acesso
+Consulta de Créditos de Acesso de Visitante
+Consulta de Definições do Crachá - Pré-Cadastro
+Consulta de Devedores de Benefícios
+Consulta de Devedores de Crédito de Acesso
+Consulta de Devedores de Créditos de Acesso
+Consulta de Devedores de Créditos de Acesso (Filtro)
+Consulta de Escalas
+Consulta de Estacionamento
+Consulta de Estrutura de Organograma
+Consulta de Estrutura de Organograma (Filtro)
+Consulta de Feriados
+Consulta de Filial
+Consulta de Funções
+Consulta de Grupo de Cargos
+Consulta de Grupo de REP
+Consulta de Grupos
+Consulta de Grupos de <sub alias="côdíns">Codins</sub>
+Consulta de Histórico de <sub alias="côdín">Codin</sub> por Filial
+Consulta de Histórico de Cargos
+Consulta de Histórico de Centro de Custo
+Consulta de Histórico de Contratos
+Consulta de Histórico de Crachá
+Consulta de Histórico de Filial
+Consulta de Histórico de Local
+Consulta de Histórico por Veículos
+Consulta de Horários
+Consulta de Local de Prestação de Serviços
+Consulta de Lotes de Comandos
+Consulta de Materiais
+Consulta de Matriz de Acesso
+Consulta de Mensagem de Acesso
+Consulta de Mensagens de Acesso do Visitante
+Consulta de Motivo de Bloqueio
+Consulta de Motivos de Pessoas Não Gratas
+Consulta de Multas
+Consulta de Ocorrências
+Consulta de Pessoas não Gratas
+Consulta de Plantas
+Consulta de Pontes
+Consulta de Pré-Cadastro de Crachá
+Consulta de Presenças
+Consulta de Programações
+Consulta de Reações
+Consulta de Reações de Acesso
+Consulta de Reclamações
+Consulta de Saída de Candidato
+Consulta de Saída de Visitantes
+Consulta de Senhas de Acesso nos <sub alias="côdíns">Codins</sub>
+Consulta de Sinais de Alarme
+Consulta de Sinistros
+Consulta de Situações
+Consulta de Solicitação de Saída
+Consulta de Tipo de Contrato
+Consulta de Tipo de Ocorrência
+Consulta de Tipo de Refeição
+Consulta de Tipos de Terceiros
+Consulta de Tipos de Visita
+Consulta de Titular de Crachá
+Consulta de Troca de Grupo de Acesso
+Consulta de Últimas Visitas (Filtro)
+Consulta de Usuários
+Consulta de veiculos por colaborador
+Consulta de Veiculos por Terceiro
+Consulta desbloquear Crachá
+Consulta Devedores de Benefícios (Filtro)
+Consulta do <sub alias="Guêituei">Gateway</sub>
+Consulta em Histórico de Crachá
+Consulta Histórico de Afastamento
+Consulta Histórico de Locais para Veículos
+Consulta Histórico de Situações de Veículos
+Consulta Infrações
+Consulta Integração <sub alias="TÓTUS">TOTVS</sub>
+Consulta Modelos de Veículos
+Consulta Motivos de Uso da Frota
+Consulta Notificações Alarme REP
+Consulta para Grupo de Usuários
+Consulta para Realização das Baixas de Crachá Provisório
+Consulta para Realização das Baixas de Crachá Titular/Provisório
+Consulta Relatório Comparativo E R P
+Consulta Saldo de Benefícios nos Coletores
+Consulta Seguros de Veículos - Modo Busca
+Consulta Situações para Veículos - Modo Busca
+Consulta Veículos Frota
+Consultar Ticket, no Webservice Guardian
+Consumo de Benefícios
+Contratos (Inclusão)
+Corretor (Atualização)
+Corretor (Inclusão)
+Crachá Titular (Atualização)
+Crachá Titular (Inclusão)
+Crachás Mestre (Inclusão)
+Créditos de Acesso
+Créditos de Acesso Coletivos (Atualização)
+Definições de Acesso
+Definições de Acesso Colaboradores
+Definições de Acesso para Configuração <sub alias="L DÁPI">LDAP</sub>
+Definições de Frota
+Definições do Crachá - Pré Cadastro
+Definições do Crachá - Provisórios
+Definições Pessoas Não Gratas
+Devedores de Benefícios (Atualização)
+Devedores de Benefícios (Inclusão)
+Devolução de Veículo
+Empresas (Atualização)
+Empresas Terceiras
+Entrada de Grupo (Consulta)
+Entrada de Grupo de Visitante
+Entrada de Visitante
+Entrega de Veículo
+Envio de Lote de Comandos
+Envio Individual de Comandos
+Escalas
+Escalas (Filtro)
+Estrutura Organograma (Inclusão)
+Faixa de Acesso de Usuário
+Faixa Horária de Refeitório
+Ficha Complementar Colaborador
+Ficha Complementar de Colaboradores
+Filiais (Inclusão)
+Filtro de Abrangência
+Formulário de Cadastro de Tipo de Usuário
+Formulário de Campos Customizáveis
+Formulário de Histórico de <sub alias="côdín">Codin</sub> por Filial
+Geração de Listas
+Gravação de Crachá Por Faixa
+Grupo de <sub alias="côdíns">Codins</sub> (Atualização)
+Grupo de <sub alias="côdíns">Codins</sub> (Inclusão)
+Grupo de Acesso
+Grupo de Acesso Coletivo
+Grupo de Acesso de Colaboradores
+Grupo de Email - <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody>
+Grupo de Hora Extra
+Grupo de Relatório (Atualização)
+Grupo de Relatório (Inclusão)
+Histórico de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Colaborador
+Histórico de <prosody rate="-4.00%" pitch="-7.00%"><sub alias="ê p i,">EPI</sub></prosody> por Visitante
+Histórico de Afastamento (Inclusão)
+Histórico de Cargos (Inclusão)
+Histórico de Centro de Custo (Inclusão)
+Histórico de Colaboradores por Veículo
+Histórico de Contratos (Atualização)
+Histórico de Contratos (Inclusão)
+Histórico de Crachás para Veículos (Atualização)
+Histórico de Crachás para Veículos (Inclusão)
+Histórico de Escalas (Atualização)
+Histórico de Escalas (Inclusão)
+Histórico de Filial (Inclusão)
+Histórico de Locais para Veículos (Atualização)
+Histórico de Local (Atualização)
+Histórico de Local (Inclusão)
+Histórico de Perfil (Atualização)
+Histórico de Perfil (Inclusão)
+Histórico de Situações de Veículos (Atualização)
+Histórico de Situações de Veículos (Inclusão)
+Históricos de Crachá de Veículos
+Históricos de Crachás de Veículos
+Históricos de Perfil
+Hora Extra
+Horários Por Escala (Inclusão)
+Idioma
+Importação de Relatórios
+Importador e Exportador de Foto
+Importador e Exportador de Fotos
+Impressão de Relatório
+Infrações (Atualização)
+Infrações (Inclusão)
+L G P D!
+L G P D! - Configurações de Dados Sensíveis
+Layout de Importação e Exportação - Consulta
+Layout de Importação e Exportação - Inclusão
+Ler Smart Card
+Liberação de Faixa Horária
+Liberação de Faixa Horária Coletiva
+Lista de Colaboradores Inválidos para Carga no REP
+Log de Aplicação
+Log de Eventos do <sub alias="Suri Player">Suriplayer</sub>
+LOG de Integração com WebService Guardian
+LOG Securos
+Lote de Cracha
+Marcação de Acesso
+Marcação de Acesso Manual
+Marcação de Ponto <sub alias="Côdín">Codin</sub> Mobile
+Marcações de Veículos (Atualização)
+Marcas de Veículos - Pesquisa
+Marcas de Veículos (Atualização)
+Marcas de Veículos (Inclusão)
+Materiais (Inclusão)
+Matrícula Automática
+Matriz de Acesso
+Mensagem de Acesso (Atualização)
+Mensagem de Acesso (Inclusão)
+Mensagens Coletivas
+Meu Acesso
+Modelo de Pessoas Não Gratas
+Modelo de Relatório para Processo Automático
+Modelos de Veículos (Atualização)
+Modelos de Veículos (Inclusão)
+Monitoramento Acesso - Grid
+Monitoramento Câmeras
+Monitoramento de Acesso Câmeras
+Monitoramento de Dispositivos Grid
+Monitoramento de Trânsito - Grupo de Câmeras
+Monitoramento de Trânsito - Grupos de Câmeras
+Monitoramento Gráfico de Equipamentos
+Monitoramento LOG Gerenciador
+Monitorar Alarmes
+Motivos de Pessoas Não Gratas (Atualização)
+Motivos de Pessoas Não Gratas (Inclusão)
+Motivos de Uso da Frota (Atualização)
+Motivos de Uso da Frota (Inclusão)
+Movimentação de Chave
+Movimentação de Chave - Filtro
+Movimentação de Veículos - Entrada
+Movimentação de Veículos Entrada (Busca)
+Movimentação de Veículos Saída
+Movimento de Colaboradores
+Multas (Atualização)
+Multas (Inclusão)
+Opções de Entrada de Grupo de Visitantes
+Opções de Entrada de Visitante
+Organograma
+Organograma (Atualização)
+Perfil de Acesso
+Plantas (Inclusão)
+Pontes (Atualização)
+Pontes (Inclusão)
+Portaria
+Portarias (Atualização)
+Portarias (Inclusão)
+Pré-Cadastro de Crachá (Atualização)
+Pré-Cadastro de Crachá (Inclusão)
+Pré-Cadastro de Crachá Por Faixa
+Procedimentos para Tratamento de Alarmes (Atualização)
+Procedimentos para Tratamento de Alarmes (Inclusão)
+Processo Automático - Email
+Processo Automático - Exportação
+Processo Automático - Importação
+Processo Automático - On-line
+Processo de Email
+Processo de Exportação
+Processo de Importação
+Processo de Relatório (Atualização)
+Processo de Relatório (Inclusão)
+Processo On-line
+Programação
+Prontuário do Veículo
+Provisório de Colaboradores (Inclusão)
+Provisório em Aberto
+Reações (Inclusão)
+Reações de Acesso (Inclusão)
+Reclamações (Atualização)
+Reclamações (Inclusão)
+Refeitório
+Relacionamento Horários Por Escala (Atualização)
+Relacionamento Horários por Escala (Inclusão)
+Relatório de <sub alias="côdíns">Codins</sub>
+Relatório de Acesso de Visitantes
+Relatório de Acessos às Áreas Restritas
+Relatório de Chave
+Relatório de Consumo de Refeitório Detalhado
+Relatório de Entrada de Visitantes
+Relatorio de Guarda-Volumes
+Relatório de Marcação de Acesso Mestre
+Relatório de Perfil de Acesso Colaboradores
+Relatório de Tipos de Alarme
+Relatório de Tratamento de Eventos de Trânsito
+Relatorio de Utilização de Guarda-Volumes
+Relatório Total de Horas Trabalhadas
+Reprocessamento de Marcação
+Reprocessamento de Marcações Órfãs Rep
+Retirada de Chave
+Seguros de Veículos - Atualização
+Seguros de Veículos - Inclusão
+Senhas de Acesso nos <sub alias="côdíns">Codins</sub> (Inclusão)
+Servidor CFTV (Atualização)
+Servidor CFTV (Inclusão)
+Sinais de Alarme (Inclusão)
+Sinistros (Atualização)
+Situações
+Situações para Veículos (Atualização)
+Solicitação de Materiais (Atualização)
+Solicitação de Materiais (Inclusão)
+Solicitação de Saída (Atualização)
+Solicitação de Saída (Inclusão)
+Solicitação de Senha Aleatória para <sub alias="côdíns">Codins</sub>
+Solicitações de Abertura de Agência
+Solicitações e Aprovações de Agendamentos de Visitantes
+Suricato - Versão
+Tipo de Acesso (Atualização)
+Tipo de Acesso (Inclusão)
+Tipo de Biometria por Grupo de Usuário
+Tipos de Terceiros (Inclusão)
+Tipos de Visitas (Atualização)
+Tipos de Visitas (Inclusão)
+Troca de Crachá
+Troca de Escala (Atualização)
+Troca de Escala (Inclusão)
+Troca de Grupo de Acesso (Atualização)
+Troca de Grupo de Acesso (Inclusão)
+Troca de Horário (Atualização)
+Troca de Horário (Inclusão)
+Upload de Firmware
+Usuário Por Portaria
+Utilização de Guarda-Volumes
+Utilização de Veículos
+Valores de Entrada do Modelo
+Valores de Entrada do Modelo - Modo Filtro
+Veículo de Colaborador - Cadastro
+Veículos Frota (Atualização)
+Visitante - Pré Seleção. (Importador e Exportador) - <sub alias="Contrôule">Controle</sub>
+Consulta de Movimentações
+Consulta de Modelos de <sub alias="côdíns">Codins</sub>
+Autorização de Saída (Atualização)
+Meu Suricato
+Grupo de Cargos (Inclusão)
+Cadastro de <sub alias="côdíns">Codins</sub> (Atualização)
+Organograma (Inclusão)
+Empresas (Inclusão)
+Desbloquear Crachá (Atualização)
+Autorização de Saída de Veículos Agendados
+Estrutura Organograma (Atualização)
+Importação e Exportação de Fotos
+Exportação de Fotos
+Status de Presença - Colaborador
+Status de Presença - Visitante
+Comandos de Emergência
+Comandos de Acesso On-line
+Aplicações Suricato
+Área de Risco
+Consulta Horário Escala
+Consulta de Crachá Veículos
+Consulta de Colaboradores Crachá
+Consulta de Tipo Alarmes
+Consulta de Tipo de Acesso
+Solicitações e Aprovações de Agendamentos de Visitantes - Filtro
+Consulta de Saída de Visitantes (Filtro)
+Registro de Email Enviado de Processo Automático de Relatório
+Processo de Relatório
+Consulta Processamento <sub alias="L DÊ CÊ">LDC</sub>
+Consulta de Portarias
+Consulta de Pessoas por Ambiente
+Consulta de Pessoas
+Monitoramento de Dispositivos Grid - Filtro
+Monitoramento de Acesso - GRID - Filtro
+Opções Aplicação
+Consulta de Agendamento de Grupo de Visitante
+Tipo de Acesso
+Relatorio de <sub alias="côdíns">Codins</sub>
+Agendamento de Visitantes
+Consulta de Procedimentos para Tratamento de Alarmes
+Consulta de Empresas Terceiras
+Consulta de Liberação de Faixa Horária
+Abrangência
+Consulta de Crachás de Visitantes (Consulta)
+Consulta de Crachás
+Empregado
+Consulta de Colaboradores (Filtro)
+Colaborador Responsável
+Busca de Pessoas
+Retirada Coletiva de Benefícios
+Câmeras CFTV
+Consulta Crachá
+Monitoramento Acesso - GRID - Filtro
+Monitoramento Gráfico de Equipamentos - Filtro
+LOG de Aplicação - Campo
+LOG de Aplicação - Cadastro
+Cadastro de Passageiros
+Baixa de Autorização de Entrada (Atualização)
+Baixa de Crachá Titular e Provisório (Inclusão)
+Baixa de Crachá Provisório (Atualização)
+Movimentação de Veículos - Saída
+Cadastro Corretor
+Desbloqueio do Colaborador (Atualização)
+Situações Para Veículos (Inclusão)
+Consulta Histórico de Crachá <sub alias="por">X</sub> Numero Fisico
+Consulta Matriz Acesso
+Consulta de Motivo para Demitidos
+Movimentação De Visitantes - Consulta
+Movimentação De Visitantes
+Permissão de Grupos de Acesso
+Consulta de Grupo de Acesso
+Organograma - <sub alias="Truí Viu">Treeview</sub>
+Cadastro de Comandos (Inclusão)
+Cadastro Tipos Equipamento de Proteção Individual</voice></speak>

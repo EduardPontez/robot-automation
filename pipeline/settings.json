@@ -1,0 +1,20 @@
+{
+  "BROWSERS" : ["IE", "EDGE", "CHROME", "FIREFOX"],
+  
+  "SERVERS" : ["172.16.14.248", "172.16.14.249"],
+  
+  "LANGUAGES" : ["PT-BR", "EN-US", "ES-ES"],
+
+  "MODES" : ["TST", "DOC", "VID"],
+
+  "USERS" : {
+    "PT-BR" : {
+      "ADMIN" : "ADMIN"
+    }
+  },
+
+  "SPEAKERS" : {
+    "FRANCISCA": "PT-BR",
+    "ANTONIO": "PT-BR"
+  }
+}

@@ -1,0 +1,13 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"89523202-fee2-410b-8a71-355e59bdaa21","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)">No canto superior esquerdo, clique na guia,
+Localize, e dê um clique no canto superior esquerdo, na guia,
+Clique na guia,
+Dê um clique na guia,
+Faça um clique na guia,
+Posicione o cursor do mouse sobre a guia,
+No canto superior esquerdo da sua tela, clique na guia,
+Identifique no canto superior esquerdo do seu monitor, a guia,
+Pressione o botão do mouse sobre a guia,
+Acesse a guia,
+Dê um clique sobre a guia,</voice></speak>

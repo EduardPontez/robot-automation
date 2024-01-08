@@ -1,0 +1,12 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"89523202-fee2-410b-8a71-355e59bdaa21","Name":"Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"pt-BR":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="pt-BR"><voice name="Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)">Clique no menu
+Navegue até o menu
+Dê um clique no menu
+Trafegue até o menu
+Localize, e clique no menu
+Verifique na sua tela o menu
+Verifique no seu monitor o menu
+Leve o cursor do mouse até o menu
+Faça a navegação até o menu
+Identifique no Suricato, o menu</voice></speak>
