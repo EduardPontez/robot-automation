@@ -1,4 +1,11 @@
-## BROWSERS
+## Robot Automation
+
+Projeto criado para automação de testes web adicionando add-ons ao Robot Framework com MoviePy, Microsoft Speech Studio e OpenCV para criação de vídeos on-demand de execução de critérios de aceite.
+
+https://github.com/EduardPontez/robot-automation/assets/35925620/33dd11a1-01ca-4c52-aabb-252fa4fdc322
+
+
+### BROWSERS
 A lista **"Navegadores"** contém os navegadores compatíveis que executam as rotinas de teste, sendo eles:
 
 * Google Chrome
@@ -16,11 +23,11 @@ O arquivo *"settings.py"* localizado dentro da pasta **"superutil"** contém tod
 
 A lista **"A fazer"**, fica em posse de tarefas a serem cumpridas no projeto.
 
-## Configurações Globais
+### Configurações Globais
 
 O arquivo *"resource_login"* contém todas as variáveis que usamos para configurar o modo que o Robot irá executar as rotinas, sendo elas:
 
-* **${SERVER}** - Variável que define o servidor a ser acessado. Por padrão o servidor utilizado é 172.16.14.249, sendo ele o mais recomendado para se executar as rotinas por conter uma grande quantidade de registros cadastrados, desta forma, menos suscetível a erros.
+* **${SERVER}** - Variável que define o servidor a ser acessado. Por padrão o servidor utilizado é localhost, sendo ele o mais recomendado para se executar as rotinas por conter uma grande quantidade de registros cadastrados, desta forma, menos suscetível a erros.
 
 
 * **${BROWSER}** - Variável que define o navegador a ser utilizado. Por padrão o navegador utilizado é o Mozilla Firefox, sendo ele o mais recomendado para se executar as rotinas por apresentar maior compatíbilidade com as telas do Suricato.
@@ -51,7 +58,7 @@ Todas as variáveis podem ser alteradas através da linha de comando antes de se
 *Exemplo de comando para alterar o servidor:*
 
 `
-COMMAND: python main.py robot -v SERVER:172.16.14.248 .\test\AppTest
+COMMAND: python main.py robot -v SERVER:localhost .\test\AppTest
 `
 
 *Exemplo de comando para alterar o navegador:*
@@ -72,7 +79,7 @@ COMMAND: python main.py robot -v MODE:VID .\test\AppTest
 COMMAND: python main.py robot -v REQ:TRUE .\test\AppTest
 `
 
-# MODE REQ
+### MODE REQ
 
 Algumas aplicações do Suricato necessitam que pré-requisitos sejam cumpridos para que seja possível executar sua rotina de teste com êxito. Para isso, implementamos o modo **"REQ"**, com ele é possível criar uma nova rotina que cumpra os requisitos necessários, e caso haja falha o teste será automaticamente pulado.
 
@@ -89,7 +96,7 @@ Aprofundando mais sobre o funcionamento dos arquivos de requirements, a variáve
 Em seguida a keyword **"Verificar requisito"** irá receber como parâmetro a variável **"{status}"**, então ela irá realizar a verificação, caso o valor seja *FALSE* o navegador será fechado e o teste terá seu resultado como `SKIP`, sinalizando que algum erro ocorreu durante a rotina de requisitos, caso o valor seja *TRUE* o Robotframework seguirá normalmente para a rotina de teste.
 
 
-# MODE DOC
+### MODE DOC
 
 Visando um controle mais refinado sobre as novas implementações e correções do projeto, foram criados módulos específicos para cada tipo de atualização que desejamos realizar, está documentação tem como objetivo esclarecer o funcionamento do módulo DOC.
 
@@ -140,7 +147,7 @@ O navegador mais recomendado para execução das rotinas é o Mozilla Firefox, p
 
 
 
-# API DATAMASS
+### API DATAMASS
 
 ### Configuração do Servidor:
 
@@ -588,7 +595,7 @@ Para cada uma delas, o comportamento do sistema pode divergir. Por exemplo, a qu
 No conjunto das variações acima, teremos o perfil de teste:
 
 `
-COMMAND: python main.py robot -v SERVER:172.16.14.248 -v BROWSER:FIREFOX -v LANGUAGE:PT-BR -v USERNAME:ADMIN -v PASSWORD:ADMIN .\tests\Apptest\app\case
+COMMAND: python main.py robot -v SERVER:localhost -v BROWSER:FIREFOX -v LANGUAGE:PT-BR -v USERNAME:ADMIN -v PASSWORD:ADMIN .\tests\Apptest\app\case
 `
 
 Para automatizar o processo e montar o comando para todas as combinações possíveis, há um módulo no projeto que se encarregará da montagem e execução em sequência.
@@ -611,38 +618,22 @@ Combinações que o PIL realizará:
 
 |   SERVER/SGBD   | BROWSER  | LANGUAGE | USERNAME   |
 |-----------------|----------|----------|------------|
-| 172.16.14.249   | CHROME   | PT-BR    |  USER_PT   |
-| 172.16.14.249   | FIREFOX  | PT-BR    |  USER_PT   |
-| 172.16.14.249   | IE       | PT-BR    |  USER_PT   |
-| 172.16.14.249   | EDGE     | PT-BR    |  USER_PT   |
-| 172.16.14.249   | CHROME   | EN-US    |  USER_EN   |
-| 172.16.14.249   | FIREFOX  | EN-US    |  USER_EN   |
-| 172.16.14.249   | IE       | EN-US    |  USER_EN   |
-| 172.16.14.249   | EDGE     | EN-US    |  USER_EN   |
-| 172.16.14.249   | CHROME   | ES-ES    |  USER_ES   |
-| 172.16.14.249   | FIREFOX  | ES-ES    |  USER_ES   |
-| 172.16.14.249   | IE       | ES-ES    |  USER_ES   |
-| 172.16.14.249   | EDGE     | ES-ES    |  USER_ES   |
-| 172.16.14.249   | CHROME   | PT-BR    |  ADMIN     |
-| 172.16.14.249   | FIREFOX  | PT-BR    |  ADMIN     |
-| 172.16.14.249   | IE       | PT-BR    |  ADMIN     |
-| 172.16.14.249   | EDGE     | PT-BR    |  ADMIN     |
-| 172.16.14.248   | CHROME   | PT-BR    |  USER_PT   |
-| 172.16.14.248   | FIREFOX  | PT-BR    |  USER_PT   |
-| 172.16.14.248   | IE       | PT-BR    |  USER_PT   |
-| 172.16.14.248   | EDGE     | PT-BR    |  USER_PT   |
-| 172.16.14.248   | CHROME   | EN-US    |  USER_EN   |
-| 172.16.14.248   | FIREFOX  | EN-US    |  USER_EN   |
-| 172.16.14.248   | IE       | EN-US    |  USER_EN   |
-| 172.16.14.248   | EDGE     | EN-US    |  USER_EN   |
-| 172.16.14.248   | CHROME   | ES-ES    |  USER_ES   |
-| 172.16.14.248   | FIREFOX  | ES-ES    |  USER_ES   |
-| 172.16.14.248   | IE       | ES-ES    |  USER_ES   |
-| 172.16.14.248   | EDGE     | ES-ES    |  USER_ES   |
-| 172.16.14.248   | CHROME   | PT-BR    |  ADMIN     |
-| 172.16.14.248   | FIREFOX  | PT-BR    |  ADMIN     |
-| 172.16.14.248   | IE       | PT-BR    |  ADMIN     |
-| 172.16.14.248   | EDGE     | PT-BR    |  ADMIN     |
+| localhost   | CHROME   | PT-BR    |  USER_PT   |
+| localhost   | FIREFOX  | PT-BR    |  USER_PT   |
+| localhost   | IE       | PT-BR    |  USER_PT   |
+| localhost   | EDGE     | PT-BR    |  USER_PT   |
+| localhost   | CHROME   | EN-US    |  USER_EN   |
+| localhost   | FIREFOX  | EN-US    |  USER_EN   |
+| localhost   | IE       | EN-US    |  USER_EN   |
+| localhost   | EDGE     | EN-US    |  USER_EN   |
+| localhost   | CHROME   | ES-ES    |  USER_ES   |
+| localhost   | FIREFOX  | ES-ES    |  USER_ES   |
+| localhost   | IE       | ES-ES    |  USER_ES   |
+| localhost   | EDGE     | ES-ES    |  USER_ES   |
+| localhost   | CHROME   | PT-BR    |  ADMIN     |
+| localhost   | FIREFOX  | PT-BR    |  ADMIN     |
+| localhost   | IE       | PT-BR    |  ADMIN     |
+| localhost   | EDGE     | PT-BR    |  ADMIN     |
 
 ### FTP
 
@@ -658,5 +649,5 @@ O Virtual Directory apontará uma pasta que corresponde ao servidor de aplicaç�
 Para cada um dos perfis de teste do plano de execução, é possível acessar pela URL, como exemplo abaixo:
 
 `
-URL: http://172.16.14.177/RB/log/Suricato/AppTest/consestruturaorganograma/00001/172.16.14.249/PT-BR/CHROME/ADMIN/report.html
+URL: http://172.16.14.177/RB/log/Suricato/AppTest/consestruturaorganograma/00001/localhost/PT-BR/CHROME/ADMIN/report.html
 `
